@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋 It's [Riski!](https://github.com/ariskidarma/)
+# Hi there 👋 It's [Riski!](https://github.com/ariskidarma/)
 
 <br/>
 
