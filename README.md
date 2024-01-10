@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 <br />
 
 Hi, I'm Riski, but you can call me Kik, a Data Enthusiast. I enjoy learning new things, especially about technology, and i always seek to improve my skills and knowledge.
-This is my GitHub Page. Feel free to open my repository to see other projects uploaded other than the pinned ones.
+
+This is my GitHub Page! Feel free to open my repository to see other projects uploaded other than the pinned ones.
 
 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /> -->
